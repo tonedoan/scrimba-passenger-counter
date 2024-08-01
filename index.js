@@ -15,3 +15,6 @@ function save() {
     countEl.textContent = 0;
 }
 
+function popup() {
+    window.alert("Saul I told you not to click this.")
+}
