@@ -64,6 +64,10 @@ button {
     background: rgb(51, 121, 51);
 }
 
+#dontclick {
+    background: rgb(175, 175, 37);
+}
+
 #save-el {
     font-weight: bold;
 }

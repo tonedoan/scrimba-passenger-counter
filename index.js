@@ -16,5 +16,6 @@ function save() {
 }
 
 function popup() {
-    window.alert("Saul I told you not to click this.")
+    let nothingEl = document.getElementById("nothing-el")
+    nothignEl.textContent = "That button does nothing!";
 }
